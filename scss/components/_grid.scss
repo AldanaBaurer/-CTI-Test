@@ -1,0 +1,13 @@
+div, .row, .col {
+    display: grid;
+}
+
+.row {
+    grid-template-columns: auto auto;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.col {
+    grid-gap: 5px;
+}

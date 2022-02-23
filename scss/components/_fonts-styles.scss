@@ -1,0 +1,46 @@
+.s-small-font{
+    font-size: 10px;
+}
+
+.small-font {
+    font-size: 14px;
+}
+
+h1 {
+    font-size: 24px;
+    letter-spacing: 1px;
+}
+
+.medium-font {
+    font-size: 16px;
+}
+
+.large-font {
+    font-size: 18px;
+}
+
+.subtitle, .bold {
+    font-weight: 700;
+}
+
+.center {
+    text-align: center;
+}
+
+.underlined{
+    text-decoration: underline;
+}
+
+.lato {
+    font-family: $secondary-font;
+}
+
+.mali {
+    font-family: $tertiary-font;
+    font-size: 28px;
+}
+
+.finibus {
+    font-style: italic;
+    text-decoration: underline;
+}
